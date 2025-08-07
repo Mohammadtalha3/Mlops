@@ -1,0 +1,12 @@
+ray
+mlflow
+pandas
+matplotlib
+seaborn
+numpy
+torch
+scikit-learn
+ipykernel
+transformers
+pandas
+pyarrow
